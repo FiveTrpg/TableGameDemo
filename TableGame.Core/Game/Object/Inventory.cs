@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace TableGame.Core.Game.Object
 {
@@ -8,6 +6,6 @@ namespace TableGame.Core.Game.Object
         where TGameSet : GameSet<TGameSet>
         where TGameObject : GameObject<TGameSet>
     {
-        
+
     }
 }

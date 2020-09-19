@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TableGame.Core.Game.Object
+﻿namespace TableGame.Core.Game.Object
 {
     public abstract class GameObject<T> where T : GameSet<T>
     {

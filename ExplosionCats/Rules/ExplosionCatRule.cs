@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ExplosionCats.Rules
+﻿namespace ExplosionCats.Rules
 {
-    class ExplosionCatRule
+    public class ExplosionCatRule
     {
+
     }
 }

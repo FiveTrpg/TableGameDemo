@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExplosionCats.Rules.Cards.CatCard
+namespace TableGame.Core.Game.Container
 {
-    public class ExplosionCat : ExplosionCard
+    class GameContainerGenericBuilder
     {
     }
 }

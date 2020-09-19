@@ -1,8 +1,6 @@
 ﻿using ExplosionCats.Rules.Cards;
-using ExplosionCats.Rules.Cards.CatCard;
-using System;
+using ExplosionCats.Rules.Cards.CatCards;
 using System.Collections.Generic;
-using System.Text;
 using TableGame.Resource.Cards;
 
 namespace ExplosionCats.Rules

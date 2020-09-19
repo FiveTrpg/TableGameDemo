@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{34A2946E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplosionCats", "ExplosionCats\ExplosionCats.csproj", "{746B9707-3F87-4E99-9681-AFB99DEDB855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableGame.Card", "TableGame.Card\TableGame.Card.csproj", "{DA7A9D21-9A79-4C8A-A5CD-756FD2253222}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableGame.Resource", "TableGame.Resource\TableGame.Resource.csproj", "{DA7A9D21-9A79-4C8A-A5CD-756FD2253222}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

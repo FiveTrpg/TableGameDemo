@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TableGame.Core.Game
+﻿namespace TableGame.Core.Game
 {
     public abstract class Character<TGameSet>
         where TGameSet : GameSet<TGameSet>

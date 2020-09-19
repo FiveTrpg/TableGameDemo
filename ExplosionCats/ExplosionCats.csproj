@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TableGame.Core\TableGame.Core.csproj" />
+    <ProjectReference Include="..\TableGame.Resource\TableGame.Resource.csproj" />
   </ItemGroup>
 
 </Project>
